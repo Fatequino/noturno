@@ -1,0 +1,6 @@
+from DiaAdapter import DiaAdapter
+from ArquivoAdapter import ArquivoAdapter
+from disciplinaAdapter import DisciplinaAdapter
+from FatequinoChatbot import FatequinoChatbot
+from HorariosLocaisAdapter import HorariosLocaisAdapter
+from professorAdapter import ProfessorAdapter
